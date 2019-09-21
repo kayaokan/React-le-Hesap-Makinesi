@@ -1,0 +1,12 @@
+.Input{
+    display: flex;
+    height: 90px;
+    background: black;
+    width: 600px;
+    color: white;
+    justify-items: center;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+}
